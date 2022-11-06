@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "hanna <hanna@hanna.lol>",
+  "description": "TypeScript template to be used for Shadowbin projects",
+  "repository": "git@github.com:shdwbin/template.git",
+  "license": "0BSD",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "format": "prettier -w src",
+    "lint": "eslint --fix src"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.42.0",
+    "@typescript-eslint/parser": "^5.42.0",
+    "eslint": "^8.27.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-xo": "^0.42.0",
+    "eslint-config-xo-typescript": "^0.53.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4"
+  }
+}

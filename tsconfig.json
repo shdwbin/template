@@ -1,0 +1,22 @@
+{
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "dist",
+    "resolveJsonModule": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "noImplicitReturns": true,
+    "noEmitOnError": true,
+    "module": "commonjs",
+    "declaration": true,
+    "target": "ES2020",
+    "sourceMap": true,
+    "lib": ["ES2020"],
+    "strict": true,
+    "pretty": true
+  }
+}

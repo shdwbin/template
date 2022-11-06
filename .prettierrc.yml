@@ -1,0 +1,15 @@
+embeddedLanguageFormatting: auto
+vueIndentScriptAndStyle: true
+singleAttributePerLine: false
+quoteProps: consistent
+bracketSameLine: true
+bracketSpacing: true
+jsxSingleQuote: true
+arrowParens: always
+trailingComma: es5
+singleQuote: true
+useTabs: false
+printWidth: 80
+endOfLine: lf
+tabWidth: 2
+semi: true
