@@ -1,0 +1,21 @@
+{
+  // Configuration Schema
+  "$schema": "https://json.schemastore.org/swcrc",
+  // Configuration Options
+  "minify": true,
+  "sourceMaps": true,
+  "jsc": {
+    "loose": true,
+    "baseUrl": ".",
+    "target": "es2020",
+    "externalHelpers": true,
+    "parser": {
+      "syntax": "typescript",
+      "importAssertions": false,
+      "dynamicImport": false,
+      "decorators": true,
+      "tsx": false,
+      "dts": true
+    }
+  }
+}
