@@ -7,7 +7,7 @@ projects. However, people are free to use this for their own projects as well.
 ## Configurations
 
 This section denotes what each tool is used for, and if the configs are based on
-another, which one it is actually based on.
+another.
 
 | Toolset     | Tool       | Based On      
 | ----------- | ---------- | --------------------------------------------------
@@ -19,5 +19,5 @@ another, which one it is actually based on.
 ## License
 
 Source code in this repository is licensed under the
-[0BSD](https://choosealicense.com/licenses/0bsd) license. Dependencies are under
-their own respective licenses.
+[0BSD](https://choosealicense.com/licenses/0bsd) license.  
+Dependencies are under their own respective licenses.
