@@ -6,6 +6,7 @@
   "description": "TypeScript template to be used for Shadowbin projects",
   "repository": "git@github.com:shdwbin/template.git",
   "license": "0BSD",
+  "type": "module",
   "scripts": {
     "start": "node dist/index.js",
     "format": "prettier -w src",
