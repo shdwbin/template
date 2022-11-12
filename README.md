@@ -1,4 +1,4 @@
-# Typescript Template
+# template
 
 This repository is a [TypeScript](https://www.typescriptlang.org/) repository
 and project template to be used for [Shadowbin](https://github.com/shdwbin)
